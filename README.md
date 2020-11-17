@@ -1,0 +1,2 @@
+# shoppingpotal
+Training purpose
